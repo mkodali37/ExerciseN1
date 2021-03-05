@@ -19,3 +19,10 @@ Database results output:
 MongoDB Database:
 
 ![image](https://user-images.githubusercontent.com/79683306/110175783-2cdb7880-7db7-11eb-83ed-a7d99938abbb.png)
+
+
+
+
+
+Author
+Manikanta Kodali - mkodali@horizon.csueastbay.edu
